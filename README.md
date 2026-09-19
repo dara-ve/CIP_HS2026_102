@@ -1,7 +1,6 @@
-# CIP_HS2026_102
 # CIP_HS2026_XX - Projekttitel
 
-Kurze Beschreibung unseres Projekts.
+Beschreibung unseres Projekts.
 
 ## Research Questions
 
