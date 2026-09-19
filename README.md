@@ -20,9 +20,10 @@ Hier kommt die Ordnerstruktur hin.
 ## Technologies Used
 
 - Python
-- Pandas
-- NumPy
-- ...
+- Webscraping:
+- Data Processing:
+- Visualization:
+- Statistical Analysis:
 
 ## Usage
 
