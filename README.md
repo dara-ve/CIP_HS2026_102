@@ -42,13 +42,13 @@ Hier erklären wir, wie die Analyse ausgeführt wird.
 
 ## Individual Contributions
 
-### Noah David Kiefer (mailto:noahdavid.kiefer@stud.hslu.ch)
+### Noah David Kiefer (noahdavid.kiefer@stud.hslu.ch)
 - ...
 
-### Louisa Zurlinden
+### Louisa Zurlinden (louisa.zurlinden@stud.hslu.ch)
 - ...
 
-### 	Dara Velkov
+### 	Dara Velkov (dara.velkov@stud.hslu.ch)
 - ...
 
 ## AI Disclaimer
