@@ -1,4 +1,4 @@
-# CIP_HS2026_102 - Projekttitel
+# CIP_HS2026_102
 
 Beschreibung unseres Projekts.
 
