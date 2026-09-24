@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# Selenium / browser drivers and logs
+chromedriver*
+geckodriver*
+*.log
+
+# Large or temporary data files (uncomment if raw data should not be versioned)
+# Collection/data/raw/
+*.tmp
+
+# Office lock files
+~$*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
