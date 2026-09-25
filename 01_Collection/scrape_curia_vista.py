@@ -6,7 +6,7 @@ Steps:
 2. Select the filters "ANFRAGE" (business type) and "ERLEDIGT" (business state).
 3. Collect all business items from the result list (page by page).
 4. Open each business detail page and extract the metadata.
-5. Save the result as CSV in Collection/data/.
+5. Save the result as CSV in 01_Collection/data/.
 """
 
 import html
