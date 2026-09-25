@@ -18,6 +18,7 @@ This project analyses parliamentary business of the Swiss Parliament: which topi
 CIP_HS2026_102/
 ├── 00_Project/                     # Project management
 │   ├── CIP_Project_Description.pdf # Course requirements
+│   ├── AI_Guidelines.md            # Rules for AI assistants in this project
 │   ├── Feasibility_Study.md
 │   ├── Project_Plan.md             # Plan, data sources, requirements check
 │   └── Status.md                   # Done / next steps
@@ -32,6 +33,7 @@ CIP_HS2026_102/
 ├── 04_Validation/                  # Validation of the scraped data with the API
 │   ├── api_validation.ipynb        # Website vs. API comparison
 │   └── data/                       # Validation results
+├── CLAUDE.md                       # Loads the AI guidelines for Claude Code
 ├── requirements.txt
 └── README.md
 ```
